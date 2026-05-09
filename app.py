@@ -248,8 +248,13 @@ st.header("3. The Landscape")
 # A short intro before the dynamic split
 st.markdown("""
 If you just follow the crowd, you’ll usually end up in places like Napa Valley or Bordeaux. 
-They make incredible wine, but they also charge you extra just for the privilege of 
-knowing their names.
+They make incredible wine, but they also charge a "prestige tax" just for the privilege of 
+knowing their names. 
+
+To find the true outliers, we have to look past the household names. We filtered our 
+entire database using our **True Value Index (TVI)** to look only at wines that sit in 
+the top tiers of market efficiency. What you are seeing below is a 
+Map of Bargains.
 """)
 
 if 'view_mode' not in st.session_state:
