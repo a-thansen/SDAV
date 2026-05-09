@@ -156,9 +156,9 @@ def get_concierge_recommendation(user_text, max_price=50):
 with st.sidebar:
     st.title("SDAV Final Project")
     st.markdown("---")
-    st.write("[Link to Explainer Notebook ↗️](https://github.com/a-thansen/SDAV/blob/main/Explainer_Notebook.ipynb)")
-    st.write("[GitHub Repository ↗️](https://github.com/a-thansen/SDAV)")
-    st.write("[Link to Dataset ↗️](https://www.kaggle.com/datasets/manyregression/updated-wine-enthusiast-review)")
+    st.write("[📓 Explainer Notebook](https://github.com/a-thansen/SDAV/blob/main/Explainer_Notebook.ipynb)")
+    st.write("[💻 GitHub Repository](https://github.com/a-thansen/SDAV)")
+    st.write("[📊 Kaggle Dataset](https://www.kaggle.com/datasets/manyregression/updated-wine-enthusiast-review)")
 
 
 # --- 5. NARRATIVE UI ---
