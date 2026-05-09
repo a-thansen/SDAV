@@ -293,7 +293,7 @@ else:
     """)
     load_and_render_html("weighted_quality_treemap.html", height=760)
 
-st.header("4. The Palette: Flavor DNA")
+st.header("4. The Palette")
 
 st.markdown("""
 Knowing which countries offer the best value is a great start, but you cannot drink geography. To find a wine you will actually love, we have to talk about flavor. 
